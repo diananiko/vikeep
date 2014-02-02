@@ -45,7 +45,7 @@ Legal notice:
 		<a class="brand" href=".">Vikeep</a>
 		<ul class="nav">
 			<li class="active"><a href="/"><i class='icon-home'></i> Home</a></li>
-			<li class="active"><a href="https://github.com/MefhigosetH/vikeep">GitHub</a></li>
+			<li class="active"><a href="https://github.com/diananiko/vikeep">GitHub</a></li>
 		</ul>
 		<p class="navbar-text pull-right">Beta</p>
 	</div>
