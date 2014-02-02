@@ -11,7 +11,7 @@ include('functions.inc.php');
 <html>
 <!--
 Legal notice:
-    Vikeep. Keep viki.com videos, yours.
+    Vikeep. Keep viki.com videos, subtitles, yours.
     Copyright (C) 2013  Victor Villarreal <mefhigoseth@gmail.com>
 
     This program is free software; you can redistribute it and/or modify
